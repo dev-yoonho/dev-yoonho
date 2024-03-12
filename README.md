@@ -14,6 +14,8 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
+
 
 # :mailbox_with_mail: Contacts
 <a href="https://www.linkedin.com/in/dev-yoonho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dev-yoonho"/></a>
