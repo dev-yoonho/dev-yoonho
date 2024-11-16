@@ -4,6 +4,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=josephcyh)](https://solved.ac/josephcyh/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yoonho&layout=compact&theme=tokyonight)
+
 # 💪Skills
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,12 +23,12 @@
 ## Version Control
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-### Tools
+## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # :mailbox_with_mail: Contacts
 <a href="https://www.linkedin.com/in/dev-yoonho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dev-yoonho"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josephcyh@yonsei.ac.kr)](mailto:josephcyh@yonsei.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:witness1215@gmail.com)](mailto:witness1215@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:josephcyh@naver.com)](mailto:josephcyh@naver.com)
 <!--
 **dev-yoonho/dev-yoonho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
