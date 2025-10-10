@@ -1,6 +1,6 @@
 # CHO YOON HO 😁
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-yoonho&count_bg=%234C4BD5&title_bg=%23242222&icon=codeigniter.svg&icon_color=%23D23838&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/dev-yoonho.svg)](https://hits.sh/github.com/dev-yoonho/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=josephcyh)](https://solved.ac/josephcyh/)
 
